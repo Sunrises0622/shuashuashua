@@ -1,14 +1,14 @@
-561	Array Partition I   	
+done 561	Array Partition I   	
 
-461	Hamming Distance   	
+done 461	Hamming Distance   	
 
-566	Reshape the Matrix   New	
+done 566	Reshape the Matrix   New	
 
-557	Reverse Words in a String III   	
+done 557	Reverse Words in a String III   	
 
-476	Number Complement   	
+done 476	Number Complement   	
 
-339	Nested List Weight Sum   	
+locked 339	Nested List Weight Sum   	
 
 500	Keyboard Row   	
 
